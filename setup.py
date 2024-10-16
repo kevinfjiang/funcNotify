@@ -20,7 +20,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/kevinfjiang/FuncNotify",
-    author="kevinfjiang",
+    author="kevinfjia",
     author_email="kevin.jiang016@gmail.com",
     license="MIT",
     classifiers=[
